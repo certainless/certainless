@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @certainless
 - 👀 I’m interested in machine learning and alhgorithms
-- 🌱 I’m currently learning Javasript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me lpc
+- 🌱 I’m currently looking for an internship
+
+
 
 <!---
 certainless/certainless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
